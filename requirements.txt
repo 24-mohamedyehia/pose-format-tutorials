@@ -1,0 +1,8 @@
+mediapipe==0.10.21
+
+pose-format==0.10.5
+vidgear==0.3.4
+tqdm==4.67.1
+simple-video-utils==0.0.2
+
+notebook==6.5.4
