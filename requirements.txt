@@ -3,3 +3,5 @@ mediapipe==0.10.21
 notebook==6.5.4
 simple-video-utils==0.0.2
 vidgear==0.3.4
+pandas==2.3.3
+pyarrow==23.0.0
