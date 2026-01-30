@@ -31,14 +31,15 @@ python -m pip install -r requirements.txt
 | # | Notebook | What you learn |
 |---|----------|----------------|
 | 01 | [01_extract_landmarks_from_video.ipynb](examples/01_extract_landmarks_from_video.ipynb) | Extract landmarks from video with MediaPipe Holistic and save `.pose` files |
-| 02 | [02_convert_pose_formats.ipynb](examples/02_convert_pose_formats.ipynb) | Convert `.pose` to JSON/NPZ/Parquet/CSV and back |
-| 03 | [03_read_pose_files.ipynb](examples/03_read_pose_files.ipynb) | Load pose data with NumPy, PyTorch, TensorFlow backends |
+| 02 | [02_convert_pose_formats.ipynb](examples/02_convert_pose_formats.ipynb) | Convert `.pose` to JSON/NPZ and back |
+| 03 | [03_read_pose_files.ipynb](examples/03_read_pose_files.ipynb) | Load and slice pose data, work with frames and time ranges |
 | 04 | [04_visualize_pose.ipynb](examples/04_visualize_pose.ipynb) | Render videos, GIFs, and images from pose data |
-| 05 | [05_advanced_features.ipynb](examples/05_advanced_features.ipynb) | Normalize, augment, interpolate, and slice components |
-| 06 | [06_web_javascript_usage.ipynb](examples/06_web_javascript_usage.ipynb) | Use `pose-format` in JavaScript/TypeScript for web apps |
+| 05 | [05_Normalization.ipynb](examples/05_Normalization.ipynb) | Normalize pose data for consistency across videos |
+| 06 | [06_Augmentation.ipynb](examples/06_Augmentation.ipynb) | Apply data augmentation techniques (rotation, zoom, skew, etc.) |
+| 07 | [07_Interpolate.ipynb](examples/07_Interpolate.ipynb) | Interpolate missing frames and smooth pose sequences |
+| 08 | [08_advanced_features.ipynb](examples/08_advanced_features.ipynb) | Advanced features and techniques for pose data manipulation |
 
 ## 🤝 Contributing
-Issues and pull requests are welcome to expand coverage, fix bugs, or improve examples.Contributing
 Issues and pull requests are welcome to expand coverage, fix bugs, or improve examples.
 
 ## 📜 License
