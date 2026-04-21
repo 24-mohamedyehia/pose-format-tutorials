@@ -1,6 +1,21 @@
+<div align="center">
+
+<img src="docs/banner.svg" alt="Pose-Format Tutorials Banner" width="100%"/>
+
+<p>
+  <a href="https://github.com/24-mohamedyehia/pose-format-tutorials/stargazers"><img src="https://img.shields.io/github/stars/24-mohamedyehia/pose-format-tutorials?style=social" alt="GitHub stars"></a>
+  <img src="https://img.shields.io/badge/python-3.11-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/MediaPipe-0.10.21-00A9E0.svg?logo=google&logoColor=white" alt="MediaPipe">
+  <a href="https://github.com/24-mohamedyehia/pose-format-tutorials/blob/main/LICENSE"><img src="https://img.shields.io/github/license/24-mohamedyehia/pose-format-tutorials.svg" alt="License"></a>
+</p>
+
 # 📚 pose-format Tutorials
 
 Practical, end-to-end notebooks and examples that teach the `pose-format` library from basics to advanced workflows (conversion, Normalizing Data,Interpolation visualization, augmentation, and web usage). Written for researchers and developers working with sign language and human pose data.
+
+</div>
+
+---
 
 ## 🔗 Resources & Recommendations
 - **Related project:** [pose](https://github.com/sign-language-processing/pose) — alternative/related `pose` repository for SL processing.
